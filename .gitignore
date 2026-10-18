@@ -1,0 +1,4 @@
+__pycache__/
+*.db
+sent_emails/
+.env
